@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Dylan14232/Dylan14232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - Hello, my name is Dylan!
 - I'm currently working towards my Associates Degree in Computer Science at BlueRidge Community College (BRCC for short).
